@@ -75,3 +75,9 @@ Tambahkan dua screenshot aplikasi yang diambil dari perangkat fisik menggunakan 
 ## Refleksi Pembelajaran
 
 Melalui tugas ini, saya belajar membuat aplikasi katalog sederhana menggunakan React Native dan Expo. Saya juga belajar membagi tampilan aplikasi menjadi beberapa komponen agar kode lebih terstruktur dan mudah digunakan kembali. Selain itu, saya memahami penggunaan props, StyleSheet, Image, Text, dan ScrollView. Tugas ini membantu saya memahami dasar pengembangan aplikasi mobile secara lebih praktis.
+
+Expo Snack:
+https://snack.expo.dev/@cecilia186/ap6_tugas_cecilia_merchandiseku
+
+Google Docs:
+https://docs.google.com/document/d/1MzcDqhZ50IoIjP-OChkFLqtIQYd0NdyEVOjpO2YKY6k/edit?tab=t.0
